@@ -16,7 +16,6 @@
   <section id="menu" class="py-5">
         <!-- Contenu des offres -->
         <div class="container">
-<<<<<<< HEAD
           <h2 class="text-center mb-4">NOS OFFRES.</h2>
           <div class="row g-4"> <!--sert a aligner les cartes avec un espacement-->
              <div class="col-md-4">
@@ -36,7 +35,6 @@
                   <h5 class="card-title">MMA</h5>
                   <p class="card-text">Arts martiaux mixtes avec coachs professionnels</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/MMA.php"class="btn btn-outline-primary">S'inscrire</a>
 
                   </div>
                 </div>
@@ -49,13 +47,7 @@
                   <h5 class="card-title">Natation</h5>
                   <p class="card-text">Perfectionnez votre technique natation.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                   <a href="../cours/cours_info/Natation.php"class="btn btn-outline-primary">S'inscrire</a>
-                  </div>
-                </div>
-              </div>
-            </div>
 
-          </div>
 
   <?php include '../commun/footer.php'; ?>
 </body> 

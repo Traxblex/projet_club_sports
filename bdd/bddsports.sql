@@ -6,5 +6,4 @@ CREATE TABLE sports (
     nom varchar(255) NOT NULL,
     prenom varchar(255) NOT NULL,
     email varchar(255) NOT NULL UNIQUE
-    
 );
