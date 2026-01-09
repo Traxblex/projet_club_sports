@@ -14,10 +14,52 @@
     <p>Découvrez nos offres spéciales pour les abonnés du club de sport.</p>
     <!-- Contenu des offres -->
   </div>
-<select name="sports" name="sports[]">
-  <option value="MMA">MMA</option>
-  <option value="Natation">Natation</option>
-  <option value="Yoga">Yoga</option>
-</select>   
+  <section id="menu" class="py-5">
+        <div class="container">
+          <h2 class="text-center mb-4">COURS DE JEUDI</h2>
+          <div class="row g-4"> <!--sert a aligner les cartes avec un espacement-->
+             <div class="col-md-4">
+              <div class="card h-100">
+                <img src="../img/logo_html.jpg" class="card-img-top" alt="logo HTML">
+                <div class="card-body d-flex flex-column">
+                  <h5 class="card-title">HTML</h5>
+                  <p class="card-text">Langage de structure : il sert à organiser le contenu d’une page web.</p>
+                  <div class="mt-auto d-flex justify-content-between align-items-center">
+                    <a href="../cours/cours_info/html.php"class="btn btn-outline-primary">voir le cours</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100">
+                <img src="../img/logo_css.jpg" class="card-img-top" alt="logo CSS">
+                <div class="card-body d-flex flex-column">
+                  <h5 class="card-title">CSS</h5>
+                  <p class="card-text">Langage de style : il contrôle l’apparence et la mise en forme du contenu HTML.</p>
+                  <div class="mt-auto d-flex justify-content-between align-items-center">
+                   <a href="../cours/cours_info/css.php"class="btn btn-outline-primary">voir le cours</a>
+                  </div>
+                </div>
+              </div>
+            </div>
 
+            <div class="col-md-4">
+              <div class="card h-100">
+                <img src="../img/logo_sql.jpg" class="card-img-top" alt="logo SQL">
+                <div class="card-body d-flex flex-column">
+                  <h5 class="card-title">SQL</h5>
+                  <p class="card-text">Langage de requête : utilisé pour interagir avec les bases de données relationnelles (comme MySQL, PostgreSQL, Oracle).</p>
+                  <div class="mt-auto d-flex justify-content-between align-items-center">
+                    <a href="../cours/cours_info/sql.php"class="btn btn-outline-primary">voir le cours</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+    </section>
+
+  <?php include 'commun/footer.php'; ?>
+</body> 
 </html>
