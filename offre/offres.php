@@ -25,7 +25,7 @@
                   <h5 class="card-title">MMA</h5>
                   <p class="card-text">Boxing etc.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/MMA.php"class="btn btn-outline-primary">Voir l'offre</a>
+                    <a href="MMA.php"class="btn btn-outline-primary">Voir l'offre</a>
                   </div>
                 </div>
               </div>
@@ -37,7 +37,7 @@
                   <h5 class="card-title">Natation</h5>
                   <p class="card-text">Natation en piscine.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                   <a href="../cours/cours_info/Natation.php"class="btn btn-outline-primary">Voir l'offre</a>
+                   <a href="Natation.php"class="btn btn-outline-primary">Voir l'offre</a>
                   </div>
                 </div>
               </div>
@@ -50,7 +50,7 @@
                   <h5 class="card-title">Yoga</h5>
                   <p class="card-text">Yoga quoi</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/Yoga.php"class="btn btn-outline-primary">Voir l'offre</a>
+                    <a href="Yoga.php"class="btn btn-outline-primary">Voir l'offre</a>
                   </div>
                 </div>
               </div>
