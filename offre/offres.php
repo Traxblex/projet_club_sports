@@ -16,16 +16,16 @@
   </div>
   <section id="menu" class="py-5">
         <div class="container">
-          <h2 class="text-center mb-4">COURS DE JEUDI</h2>
+          <h2 class="text-center mb-4">NOS SPORTS.</h2>
           <div class="row g-4"> <!--sert a aligner les cartes avec un espacement-->
              <div class="col-md-4">
               <div class="card h-100">
-                <img src="../img/logo_html.jpg" class="card-img-top" alt="logo HTML">
+                <img src="../img/yoga.jpg" class="card-img-top" alt="yoga">
                 <div class="card-body d-flex flex-column">
-                  <h5 class="card-title">HTML</h5>
-                  <p class="card-text">Langage de structure : il sert à organiser le contenu d’une page web.</p>
+                  <h5 class="card-title">yoga</h5>
+                  <p class="card-text">Séances de relaxation et étirements pour tous niveaux.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/html.php"class="btn btn-outline-primary">voir le cours</a>
+                    <a href="../cours/cours_info/yoga.php"class="btn btn-outline-primary">S'inscrire</a>
                   </div>
                 </div>
               </div>
