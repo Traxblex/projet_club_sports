@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<?php include ('commun/header.php'); ?>
 <body>
     <h1>Club Sports</h1>
 </body>
