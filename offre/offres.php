@@ -26,8 +26,6 @@
                   <p class="card-text">Séances de relaxation et étirements pour tous niveaux.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
                     <a href="../cours/cours_info/yoga.php"class="btn btn-outline-primary">S'inscrire</a>
-
-          <div class="row g-4"> <!--sert a aligner les cartes avec un espacement-->
              <div class="col-md-4">
               <div class="card h-100">
                 <img src="../img/logo_MMA.jpg" class="card-img-top" alt="logo_MMA">
@@ -35,7 +33,7 @@
                   <h5 class="card-title">MMA</h5>
                   <p class="card-text">Arts martiaux mixtes avec coachs professionnels</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-
+                    <a href="../cours/cours_info/yoga.php"class="btn btn-outline-primary">S'inscrire</a>
                   </div>
                 </div>
               </div>
@@ -47,6 +45,7 @@
                   <h5 class="card-title">Natation</h5>
                   <p class="card-text">Perfectionnez votre technique natation.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
+                    <a href="../cours/cours_info/yoga.php"class="btn btn-outline-primary">S'inscrire</a>
 
 
   <?php include '../commun/footer.php'; ?>
